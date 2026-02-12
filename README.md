@@ -21,7 +21,10 @@
 
 <br>    
 <div align="center">
+  <h3>📖 Blog</h3>
+  <div align="center">
   <a href="https://velog.io/@seungye1209/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
+</div>
 </div>
