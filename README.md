@@ -18,4 +18,11 @@
           </div>
     </div>
     </div>
-    
+
+<br>    
+<div align="center">
+  <h3>📖 Blog</h3>
+  <a href="https://velog.io/@seungye1209/posts" target="_blank">
+    https://velog.io/@seungye1209
+  </a>
+</div>
